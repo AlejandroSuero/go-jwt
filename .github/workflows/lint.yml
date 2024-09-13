@@ -1,7 +1,11 @@
 name: lint
 on:
-  push:
   pull_request:
+    branches:
+      - main
+    paths:
+      - "**.go"
+      - "cmd/*.go"
 
 jobs:
   golangci:
