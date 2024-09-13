@@ -6,7 +6,11 @@
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 
-# Go-JWT [![JWT-logo]][jwt.io]
+# Go-JWT
+
+<a href="https://jwt.io" target="_blank" rel="noreferrer noopener">
+  <img height="60" width="auto" src="http://jwt.io/img/logo-asset.svg" alt="JWT logo">
+</a>
 
 Decode and validate your [JWT](https://jwt.io) tokens in Go.
 
